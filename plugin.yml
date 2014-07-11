@@ -1,0 +1,9 @@
+name: NewsPaper
+main: me.odium.newspaper.newspaper
+version: 0.3
+author: OdiumxXx
+commands:
+   news:
+      description: Get the news
+      permission:
+      usage:

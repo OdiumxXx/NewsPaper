@@ -1,0 +1,12 @@
+0.2
+ - Added centralized message codes
+ - Prevented players without news.admin permission breaking the news stand
+ - Streamlined the command structure
+ - Added help menu
+ - added reload
+ - added reset <-- add menu item & try to reset storageconfig (Reset Names & Dates)
+0.3
+ - Added confirmation message to /news clear
+ - Added /news clear to help menu
+ - Added /news reset
+ - Added /news reset to help menu
